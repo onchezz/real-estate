@@ -1,4 +1,4 @@
-# ink!athon – DApp Boilerplate for Substrate & ink!
+# ink!athon – Substrate & ink smart contract 
 
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-gray)
